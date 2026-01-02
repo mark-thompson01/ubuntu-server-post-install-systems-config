@@ -32,31 +32,7 @@ This lab reflects how an Ubuntu Server system would realistically be prepared in
 ---
 
 🖥️ **Live Project Webpage:**  
-👉 [Ubuntu Server Post-Install Systems Configuration](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%# Ubuntu Server Post-Install Systems Configuration
-
-This repository documents a **phase-based Ubuntu Server post-installation baseline lab** focused on establishing a secure, predictable, and operationally sound system before any services are deployed into an operational environment. 
-
-The purpose of this lab is not to install applications, but to demonstrate **systems administration discipline**.
-
-The decisions and actions that immediately follow an operating system installation that determine whether a server becomes reliable infrastructure or a long-term liability.
-
-
----
-
-## 🛠️ Tech Used
-
-- Linux Ubuntu 24.04
-- Lenovo Thinkpad E16 Gen 2
-- Windows 11 Pro
-- Hyper-V
-- Ubuntu Server 24.04 LTS
-- GitHub Pages for documentation
-- Visual demonstration and screenshots
-
----
-
-🖥️ **Live Project Webpage:**  
-👉 [Ubuntu Server Post-Install Systems Configuration](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Ubuntu-Server%20Post-Install/)
+👉 [Ubuntu Server Post-Install Systems Configuration](https://mark-
 
 
 ---
