@@ -1,6 +1,6 @@
 # Ubuntu Server Post-Install Systems Configuration
 
-This repository documents a **phase-based Ubuntu Server post-installation baseline lab** focused on establishing a secure, predictable, and operationally sound system before any services are deployed.
+This repository documents a **phase-based Ubuntu Server post-installation baseline lab** focused on establishing a secure, predictable, and operationally sound system before any services are deployed into an operational environment. 
 
 The purpose of this lab is not to install applications, but to demonstrate **systems administration discipline** — the decisions and actions that immediately follow an operating system installation that determine whether a server becomes reliable infrastructure or a long-term liability.
 
