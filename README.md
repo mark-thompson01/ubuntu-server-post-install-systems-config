@@ -32,7 +32,7 @@ This lab reflects how an Ubuntu Server system would realistically be prepared in
 ---
 
 🖥️ **Live Project Webpage:**  
-👉 [Hyper-V Lab](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Ubuntu-Server%20Post-Install/)
+👉 [Ubuntu Server Post-Install Systems Configuration](https://mark-thompson01.github.io/MTPortfolio/Current%20Projects%20&%20Studies/Ubuntu-Server%20Post-Install/)
 
 
 ---
