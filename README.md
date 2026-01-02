@@ -19,6 +19,18 @@ This lab reflects how an Ubuntu Server system would realistically be prepared in
 
 ---
 
+## 🛠️ Tech Used
+
+- Linux Ubuntu 24.04
+- Lenovo Thinkpad E16 Gen 2
+- Windows 11 Pro
+- Hyper-V
+- Ubuntu Server 24.04 LTS
+- GitHub Pages for documentation
+- Visual demonstration and screenshots
+
+---
+
 ## Lab Structure
 
 The lab is organized into **six operational phases**, mirroring how real infrastructure work is planned and executed.
@@ -54,7 +66,31 @@ The lab is organized into **six operational phases**, mirroring how real infrast
 
 Each phase is visually documented with screenshots and organized to reflect real-world administrative workflows.
 
+
 ---
 
-## Repository Contents
+## 📘 What I Learned
+
+- How to setup and configure a Ubuntu Server VM 
+- Best configuration practices post Ubuntu Server OS installation
+- How Ubuntu server gets installed as a "headless system" by default (Meaning no GUI environment, just terminal)
+- Linux Ubuntu Server Command-Line administration
+- Implementing server security-hardening measures (e.g., SSH, UFW, Automatic Path Management, Access Control, etc)
+
+
+---
+
+## 📁 More from Me
+
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+---
+
+## 🛡️ License
+
+The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
 
