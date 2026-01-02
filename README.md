@@ -1,4 +1,4 @@
-# Ubuntu Server – Post-Installation Baseline & Hardening Lab
+# Ubuntu Server Post-Install Systems Configuration
 
 This repository documents a **phase-based Ubuntu Server post-installation baseline lab** focused on establishing a secure, predictable, and operationally sound system before any services are deployed.
 
