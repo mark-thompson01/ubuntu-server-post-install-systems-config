@@ -13,7 +13,7 @@ The decisions and actions that immediately follow an operating system installati
 - **Operating System:** Ubuntu Server 24.04 LTS  
 - **Environment:** Hyper-V Virtual Machine  
 - **Type:** Hands-on systems administration lab  
-- **Focus:** Post-installation baseline & hardening  
+- **Focus:** Post-installation configuration baseline & hardening  
 
 This lab reflects how an Ubuntu Server system would realistically be prepared in a **production-minded environment** prior to hosting services.
 
