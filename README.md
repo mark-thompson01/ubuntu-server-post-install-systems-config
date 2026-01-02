@@ -40,16 +40,6 @@ The purpose of this lab is not to install applications, but to demonstrate **sys
 
 The decisions and actions that immediately follow an operating system installation that determine whether a server becomes reliable infrastructure or a long-term liability.
 
----
-
-## Lab Overview
-
-- **Operating System:** Ubuntu Server 24.04 LTS  
-- **Environment:** Hyper-V Virtual Machine  
-- **Type:** Hands-on systems administration lab  
-- **Focus:** Post-installation configuration baseline & hardening  
-
-This lab reflects how an Ubuntu Server system would realistically be prepared in a **production-minded environment** prior to hosting services.
 
 ---
 
@@ -71,7 +61,7 @@ This lab reflects how an Ubuntu Server system would realistically be prepared in
 
 ---
 
-## Lab Structure
+## 🧱 Lab Structure
 
 The lab is organized into **six operational phases**, mirroring how real infrastructure work is planned and executed.
 
@@ -97,6 +87,16 @@ The lab is organized into **six operational phases**, mirroring how real infrast
 
 ---
 
-## 🧱 Lab Structure
+## 📁 More from Me
 
-The lab is organized into **s**
+Visit my full GitHub Pages portfolio to explore additional projects:
+
+🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+---
+
+## 🛡️ License
+
+The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
+
